@@ -11,7 +11,7 @@ I like to analyze, develop, and investigate financial data, make relations, disc
 I am currently discovering the Data Science World which gives me a set of tools that allow me to manage Big Data and Report it on another level with Power BI or Tableau.
 I believe that automating data entry processes could be difficult in the beginning but could have a great impact on the actual team members in the future.
 When I'm not developing you can find me on Instagram looking some race cars and motorsports news, reading some news about economics, learning languages like English (to reach C2) or Italian (Beginner),
-playing some eMotorsports games or Starcraft II, working out, playing tennis, cooking or doing Yoga exercise to relax
+playing some eMotorsports games or Starcraft II, working out, playing tennis, cooking or doing Yoga exercise to relax.
 
 
 
