@@ -13,13 +13,16 @@
 - When I'm not developing you can find me on Instagram looking some race cars and motorsports news, reading some news about economics, learning languages like English (to reach C2) or Italian (Beginner),
 playing some eMotorsports games or Starcraft II, working out, playing tennis, cooking or doing Yoga exercise to relax.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mí // About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 - :school: I'm an `Accountant` at [Facultad de Ciencias Económicas](https://eco.mdp.edu.ar/) at [Universidad Nacional de Mar del Plata](https://www.mdp.edu.ar/).
 - :trophy: 2x `Bachelor Degree` + `Data Scientist`.
@@ -45,13 +48,9 @@ playing some eMotorsports games or Starcraft II, working out, playing tennis, co
   - English//Italian
   - ERPs
 
-</div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div>
-
-
-
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -70,8 +69,7 @@ playing some eMotorsports games or Starcraft II, working out, playing tennis, co
 -    ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C94C.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 -    ![Excel](https://img.shields.io/badge/Excel-%2300A400.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
 <br>
