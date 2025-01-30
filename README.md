@@ -74,7 +74,9 @@ playing some eMotorsports games or Starcraft II, working out, playing tennis, co
 <br>
 <br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div>
 
 <!-- CONTACTO -->
 <h3 align="left">Conecta conmigo // Connect With Me:</h3>
@@ -88,7 +90,9 @@ playing some eMotorsports games or Starcraft II, working out, playing tennis, co
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div>
 
 <br>
 
