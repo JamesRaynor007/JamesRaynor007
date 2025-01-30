@@ -5,12 +5,12 @@
 
 <p align="left">
   
-- I'm a Data Scientist Junior from Argentina with a Certified Public Accountant Degree, lovely for numbers and finances.
-- I like to analyze, develop, and investigate financial data, make relations, discover trends, and make information to report.
-- I am currently discovering the Data Science World which gives me a set of tools that allow me to manage Big Data and Report it on another level with Power BI or Tableau.
-- I believe that automating data entry processes could be difficult in the beginning but could have a great impact on the actual team members in the future.
-- When I'm not developing you can find me on Instagram looking some race cars and motorsports news, reading some news about economics, learning languages like English (to reach C2) or Italian (Beginner),
-playing some eMotorsports games or Starcraft II, working out, playing tennis, cooking or doing Yoga exercise to relax.
+- I'm a Data Scientist Junior `from Argentina` with a `Certified Public Accountant Degree`, lovely for numbers and finances.
+- `I like to` analyze, develop, and investigate financial data, make relations, discover trends, and make information to report.
+- I am currently discovering the Data Science World which gives me a set of tools that allow me to `manage Big Data and Report it` on another level with Power BI or Tableau.
+- I believe that `automating data entry processes` could be difficult in the beginning but could have a great impact on the actual team members in the future.
+- When I'm not developing you can find me on Instagram looking some `race cars and motorsports` news, reading some news about `economics`, learning `languages` like English (to reach C2) or Italian (Beginner),
+playing some `eMotorsports` games or Starcraft II, working out, playing tennis, cooking or doing Yoga exercise to relax.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
