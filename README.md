@@ -1,13 +1,9 @@
 <h1 align="center"><b>Hi , I'm Alejandro Castellano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center"><b>Data Scientist </b></h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 <div>
 
-
-
 <p align="left">
-
 - I'm a Data Scientist Junior from Argentina with a Certified Public Accountant Degree, lovely for numbers and finances.
 - I like to analyze, develop, and investigate financial data, make relations, discover trends, and make information to report.
 - I am currently discovering the Data Science World which gives me a set of tools that allow me to manage Big Data and Report it on another level with Power BI or Tableau.
