@@ -4,6 +4,7 @@
 
 <div>
 
+<h2 align="left"><b>Data Scientist </b></h2>
 
 
 <p align="left">
@@ -94,4 +95,4 @@ playing some eMotorsports games or Starcraft II, working out, playing tennis, co
 
 Credit: [durgeshsamariya](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)
 
-Last Edited on: 29/01/2025
+Last Edited on: 30/01/2025
