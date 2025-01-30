@@ -20,7 +20,7 @@ playing some eMotorsports games or Starcraft II, working out, playing tennis, co
 <div>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mí // About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -43,7 +43,7 @@ playing some eMotorsports games or Starcraft II, working out, playing tennis, co
 
 <div>
 
-  ## 📚 &nbsp;Actualmente Estudiando // Currently studying
+  ## 📚 &nbsp;Currently studying
 
   - Data Science
   - Logistics
@@ -75,7 +75,7 @@ playing some eMotorsports games or Starcraft II, working out, playing tennis, co
 <div>
 
 <!-- CONTACTO -->
-<h3 align="left">Conecta conmigo // Connect With Me:</h3>
+<h3 align="left">Let's Connect!:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alejandro-cesar-castellano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="40" width="50" /></a>
 <a href="https://discordapp.com/users/1199157421608796251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="40" width="50" /></a>
