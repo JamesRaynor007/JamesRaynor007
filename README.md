@@ -5,12 +5,12 @@
 
 <p align="left">
   
-- I'm a Data Scientist Junior `**from Argentina**` with a `Certified Public Accountant Degree`, lovely for numbers and finances.
-- `I like to` analyze, develop, and investigate financial data, make relations, discover trends, and make information to report.
-- I am currently discovering the Data Science World which gives me a set of tools that allow me to `manage Big Data and Report it` on another level with Power BI or Tableau.
-- I believe that `automating data entry processes` could be difficult in the beginning but could have a great impact on the actual team members in the future.
-- When I'm not developing you can find me on Instagram looking some `race cars and motorsports` news, reading some news about `economics`, learning `languages` like English (to reach C2) or Italian (Beginner),
-playing some `eMotorsports` games or Starcraft II, working out, playing tennis, cooking or doing Yoga exercise to relax.
+- I'm a Data Scientist Junior **`from Argentina`** with a **`Certified Public Accountant Degree`**, lovely for numbers and finances.
+- **`I like to`** analyze, develop, and investigate financial data, make relations, discover trends, and make information to report.
+- I am currently discovering the Data Science World which gives me a set of tools that allow me to **`manage Big Data and Report it`** on another level with Power BI or Tableau.
+- I believe that **`automating data entry processes`** could be difficult in the beginning but could have a **`great impact`** on the actual team members in the future.
+- When I'm not developing you can find me on Instagram looking some **`race cars and motorsports`** news, reading some news about **`economics`**, learning **`languages`** like English (to reach C2) or Italian (Beginner),
+playing some **`eMotorsports`** games or Starcraft II, working out, playing tennis, cooking or doing Yoga exercise to relax.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -23,15 +23,15 @@ playing some `eMotorsports` games or Starcraft II, working out, playing tennis, 
 
 <br>
 
-- :school: I'm an `Accountant` at [Facultad de Ciencias Económicas](https://eco.mdp.edu.ar/) at [Universidad Nacional de Mar del Plata](https://www.mdp.edu.ar/).
-- :trophy: 2x `Bachelor Degree` + `Data Scientist`.
+- :school: I'm an **`Accountant`** at [Facultad de Ciencias Económicas](https://eco.mdp.edu.ar/) at [Universidad Nacional de Mar del Plata](https://www.mdp.edu.ar/).
+- :trophy: 2x **`Bachelor Degree`** + **`Data Scientist`**.
 - 👀 I’m interested in finances, accounting, motorsports
-- :technologist: I love using Software as a help for `Accounting` and to Develop new processes in `Business`.
-- :computer: I am a proficient user at `Python`, `MySQL`, `Microsoft Excel`, `Power BI`, `ERPs`.
+- :technologist: I love using Software as a help for **`Accounting`** and to Develop new processes in **`Business`**.
+- :computer: I am a proficient user at **`Python`**, **`MySQL`**, **`Microsoft Excel`**, **`Power BI`**, **`ERPs`**.
 - 📫 How to reach me https://www.linkedin.com/in/alejandro-cesar-castellano/
-- :student: I’m currently learning `Logistics` and `English`.
-- :nerd_face: Always `learning new things`.
-- :boom: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1EF4_HpP6yjKx0YxZRdQ9mPFX4BUIr7Q7/view).
+- :student: I’m currently learning **`Logistics`** and **`English`**.
+- :nerd_face: Always **`learning new things`**.
+- :boom: I’m currently open for a new **`job opportunity`**, this is [MY RESUME](https://drive.google.com/file/d/1EF4_HpP6yjKx0YxZRdQ9mPFX4BUIr7Q7/view).
 - ⚡ Fun fact: Tennis Player with better backhand than forehand
 - :thinking: You can visit [MY Portfolio](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
