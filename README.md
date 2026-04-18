@@ -33,7 +33,7 @@ playing some **`eMotorsports`** games or Starcraft II, working out, playing tenn
 - :nerd_face: Always **`learning new things`**.
 - :boom: I’m currently open for a new **`job opportunity`**, this is [MY RESUME](https://drive.google.com/file/d/1EF4_HpP6yjKx0YxZRdQ9mPFX4BUIr7Q7/view).
 - ⚡ Fun fact: Tennis Player with better backhand than forehand
-- :thinking: You can visit [MY Portfolio](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: You can visit [MY Portfolio]().
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
