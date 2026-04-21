@@ -31,7 +31,7 @@ jugando algún juego de **`Automovilismo`** o Starcraft II, entrenando, jugando 
 - :nerd_face: Siempre **`aprendiendo nuevas cosas`**.
 - :boom: Actualmente abierto a nuevas **`oportunidades de trabajo`**, este es mi resumen [CV](https://drive.google.com/file/d/1oA685lFXZY97d53ToyiVhEaE5BQ117MG/view?usp=drive_link).
 - ⚡ Hecho Divertido: Jugador de tenis con mejor revés que derecha.
-- :thinking: Puedes visitar mi portafolio [Mi Portafolio](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: Puedes visitar mi portafolio [Mi Portafolio](https://jamesraynor007.github.io/Portfolio2026/).
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -89,4 +89,4 @@ jugando algún juego de **`Automovilismo`** o Starcraft II, entrenando, jugando 
 
 Créditos: [durgeshsamariya](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)
 
-Última edición: 30/01/2025
+Última edición: 21/04/2026
