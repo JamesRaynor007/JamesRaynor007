@@ -31,7 +31,7 @@ playing some **`eMotorsports`** games or Starcraft II, working out, playing tenn
 - :technologist: I love using Software as a help for **`Accounting`** and to Develop new processes in **`Business`**.
 - :computer: I am a proficient user at **`Python`**, **`MySQL`**, **`Microsoft Excel`**, **`Power BI`**, **`ERPs`**.
 - :nerd_face: Always **`learning new things`**.
-- :boom: I’m currently open for a new **`job opportunity`**, this is [MY RESUME](https://drive.google.com/file/d/1EF4_HpP6yjKx0YxZRdQ9mPFX4BUIr7Q7/view).
+- :boom: I’m currently open for a new **`job opportunity`**, this is [MY RESUME](https://drive.google.com/file/d/17OQflRHGT-FzJ2_JRDYdyKBLUhq3jXHc/view?usp=sharing).
 - ⚡ Fun fact: Tennis Player with better backhand than forehand
 - :thinking: You can visit [MY Portfolio]().
 <br>
