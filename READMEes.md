@@ -29,7 +29,7 @@ jugando algún juego de **`Automovilismo`** o Starcraft II, entrenando, jugando 
 - :technologist: Me encanta usar Software para ayudar a la **`Contabilidad`** y desarrollar nuevos procesos de **`Negocios`**.
 - :computer: Soy competente usando **`Python`**, **`MySQL`**, **`Microsoft Excel`**, **`Power BI`**, **`ERPs`**.
 - :nerd_face: Siempre **`aprendiendo nuevas cosas`**.
-- :boom: Actualmente abierto a nuevas **`oportunidades de trabajo`**, este es mi resumen [CV](https://drive.google.com/file/d/1EF4_HpP6yjKx0YxZRdQ9mPFX4BUIr7Q7/view).
+- :boom: Actualmente abierto a nuevas **`oportunidades de trabajo`**, este es mi resumen [CV](https://drive.google.com/file/d/1oA685lFXZY97d53ToyiVhEaE5BQ117MG/view?usp=drive_link).
 - ⚡ Hecho Divertido: Jugador de tenis con mejor revés que derecha.
 - :thinking: Puedes visitar mi portafolio [Mi Portafolio](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
